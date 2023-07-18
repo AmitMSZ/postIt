@@ -1,4 +1,4 @@
-##Sistema de Notas en ReactJS
+## Sistema de Notas en ReactJS
 
 Este proyecto es un sistema de notas implementado en ReactJS que permite a los usuarios agregar, eliminar y gestionar notas personalizadas de manera interactiva. El sistema cuenta con las siguientes características principales:
 
